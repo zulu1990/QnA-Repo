@@ -1,0 +1,13 @@
+
+COUPA_9-VERIFICATION
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+COUPA_9-VERIFICATION-UTT
+
+#bot
+Approvers have 10 calendar days to take action on an approval request before the requisition gets auto escalated to the next approver. If you are the final approver, it will escalate to your manager.
+
+PAUSE 2000

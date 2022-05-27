@@ -1,0 +1,13 @@
+
+COUPA_1-LUIS
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+COUPA_1-LUIS-UTT
+
+#bot
+To access Coupa please click on [this link](https://nike.coupahost.com/user/account).
+
+PAUSE 2000

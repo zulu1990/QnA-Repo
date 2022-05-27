@@ -1,0 +1,13 @@
+
+COUPA_22-LUIS
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+COUPA_22-LUIS-UTT
+
+#bot
+"Work Breakdown Structure" . This is often applied to monitor (construction) projects.
+
+PAUSE 2000

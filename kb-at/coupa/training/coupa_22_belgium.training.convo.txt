@@ -1,0 +1,14 @@
+
+COUPA_22_BELGIUM-LUIS
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_BELGIUM
+
+#me
+COUPA_22_BELGIUM-LUIS-UTT
+
+#bot
+"Work Breakdown Structure" . This is often applied to monitor (construction) projects.
+ALL capex related spend need to be allocated to a WBS.
+
+PAUSE 2000

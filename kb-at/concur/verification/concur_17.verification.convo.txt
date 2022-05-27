@@ -1,0 +1,13 @@
+
+CONCUR_17-VERIFICATION
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+CONCUR_17-VERIFICATION-UTT
+
+#bot
+Click on Advanced search to find **Employees**.
+
+PAUSE 2000

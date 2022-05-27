@@ -1,0 +1,13 @@
+
+CONCUR_14-LUIS
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+CONCUR_14-LUIS-UTT
+
+#bot
+To activate e-receipts follow this [link](https://nike.box.com/s/f2dq2oghv2uv2qaqjcj00a1qdtrwa0rb).
+
+PAUSE 2000

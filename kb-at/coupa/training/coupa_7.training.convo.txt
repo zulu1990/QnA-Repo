@@ -1,0 +1,13 @@
+
+COUPA_7-LUIS
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+COUPA_7-LUIS-UTT
+
+#bot
+To delegate approvers in mobile app follow this [link](https://nike.box.com/s/p0nb3844nx1xolcp2j6y2bwxpoccfdmb).
+
+PAUSE 2000

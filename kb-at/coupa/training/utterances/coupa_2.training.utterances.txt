@@ -1,0 +1,15 @@
+COUPA_2-LUIS-UTT
+Create a catalogue order in COUPA?
+Create a catalogue order
+I want to order from a catalogue in COUPA
+order from a catalogue 
+create a PO number
+I want to create a PO?
+i want to create a purchase order number
+I need to create a purchase order number
+make purchase order request
+Where can I find the PO request form?
+Give me the link to enter a purchase order request?
+I want to raise PO
+Show my PO requests in Nikeflow
+Nike flow PO requests

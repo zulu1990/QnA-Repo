@@ -1,0 +1,13 @@
+
+COUPA_13-LUIS
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+COUPA_13-LUIS-UTT
+
+#bot
+To search for a vendor in Coupa follow this [link](https://nike.box.com/s/2ntz4ar652h90919ngmr66yfquitlqvk).
+
+PAUSE 2000

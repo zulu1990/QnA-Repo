@@ -1,0 +1,15 @@
+
+CONCUR_11-VERIFICATION
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+CONCUR_11-VERIFICATION-UTT
+
+#bot
+In Concur, you could be required to create two different expense reports depending on spend type. The two spend types are T&E and Non-T&E Expense.
+* T&E - Anything related to travel and allowed per our Travel & Entertainment policy.
+* Non-T&E – Business Meetings & Events, Brand Marketing & Advertisement, Computer – Products & Services, Professional Services, Retail Merchandise, Multi Event / Day Tickets,  Fees and General Supplies.
+
+PAUSE 2000

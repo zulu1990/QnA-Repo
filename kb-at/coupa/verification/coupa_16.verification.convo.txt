@@ -1,0 +1,13 @@
+
+COUPA_16-VERIFICATION
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+COUPA_16-VERIFICATION-UTT
+
+#bot
+To create a new vendor or maintain an existing one please use this [link](https://nike.sharepoint.com/teams/na9/VendorManagement/job-aids-and-videos).
+
+PAUSE 2000

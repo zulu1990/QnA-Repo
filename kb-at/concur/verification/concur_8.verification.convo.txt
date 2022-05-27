@@ -1,0 +1,13 @@
+
+CONCUR_8-VERIFICATION
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+CONCUR_8-VERIFICATION-UTT
+
+#bot
+To set up the Concur mobile app please follow this [procedure](https://nike.box.com/s/sl4hg65stnajf1talri8rwoy6vwd9idh).
+
+PAUSE 2000

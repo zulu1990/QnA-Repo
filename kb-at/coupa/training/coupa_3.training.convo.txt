@@ -1,0 +1,14 @@
+
+COUPA_3-LUIS
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+COUPA_3-LUIS-UTT
+
+#bot
+To see the status of items you have requested please use [link](https://nike.box.com/s/m3diztqj0ikqybmu3ghdkkvkrz6ziz1k).
+To see the pending approval list in Coupa please follow this [link](http://beavertn-svr-ur/coupawiki/doku.php?id=find_items_need_approval).
+
+PAUSE 2000

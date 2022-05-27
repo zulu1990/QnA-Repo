@@ -1,0 +1,13 @@
+
+COUPA_27_BELGIUM-LUIS
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_BELGIUM
+
+#me
+COUPA_27_BELGIUM-LUIS-UTT
+
+#bot
+To reactivate or extend the vendor please reach out to ELC.PO@nike.com.
+
+PAUSE 2000

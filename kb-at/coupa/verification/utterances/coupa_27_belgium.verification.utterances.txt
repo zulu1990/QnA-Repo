@@ -1,0 +1,6 @@
+COUPA_27_BELGIUM-VERIFICATION-UTT
+my vendor is inactive in COUPA
+I cannot find my vendor in COUPA
+What happens when I can't find a vendor in Coupa when I'm creating a PO?
+Vendor doesn't exist in my company code
+What happens when I can't find a vendor in Coupa when I'm creating a PO?

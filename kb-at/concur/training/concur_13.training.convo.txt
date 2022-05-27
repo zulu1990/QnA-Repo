@@ -1,0 +1,13 @@
+
+CONCUR_13-LUIS
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+CONCUR_13-LUIS-UTT
+
+#bot
+To check icons meaning in Concur follow this [link](https://nike.box.com/s/cnyq39fghaem4aeu0cb53lqfpsb15mlz).
+
+PAUSE 2000

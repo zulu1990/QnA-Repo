@@ -1,0 +1,13 @@
+
+CONCUR_20-VERIFICATION
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+CONCUR_20-VERIFICATION-UTT
+
+#bot
+Please go into Concur [link](https://nike.okta.com/home/nike_concurprod_1/0oa5lf4t8dius8mHo1t7/aln5lf9si23wJtbpd1t7) and select 'mileage' as expense type.
+
+PAUSE 2000

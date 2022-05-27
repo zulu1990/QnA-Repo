@@ -1,0 +1,13 @@
+
+COUPA_26-LUIS
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+COUPA_26-LUIS-UTT
+
+#bot
+To check how to approve invoice in Coupa visit this [link](http://beavertn-svr-ur/coupawiki/doku.php?id=po_related_invoice_approval).
+
+PAUSE 2000

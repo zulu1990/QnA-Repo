@@ -1,0 +1,13 @@
+
+COUPA_16_BELGIUM-VERIFICATION
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_BELGIUM
+
+#me
+COUPA_16_BELGIUM-VERIFICATION-UTT
+
+#bot
+For Belgium, to create a new vendor or maintain an existing one please reach out to ELC.PO@nike.com.
+
+PAUSE 2000

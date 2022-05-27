@@ -1,0 +1,13 @@
+
+CONCUR_7-VERIFICATION
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+CONCUR_7-VERIFICATION-UTT
+
+#bot
+To set up a delegate, go in concur in the upper right concur to profile, select profile settings / expense delegates.
+
+PAUSE 2000

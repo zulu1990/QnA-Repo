@@ -1,0 +1,13 @@
+
+COUPA_28-LUIS
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+COUPA_28-LUIS-UTT
+
+#bot
+Please find herewith the link to Aravo to submit new vendor requests - [link](https://vendorportalsso.nike.com).
+
+PAUSE 2000
