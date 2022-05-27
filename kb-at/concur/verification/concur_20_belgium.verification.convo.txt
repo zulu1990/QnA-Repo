@@ -1,0 +1,13 @@
+
+CONCUR_20_BELGIUM-VERIFICATION
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_BELGIUM
+
+#me
+CONCUR_20_BELGIUM-VERIFICATION-UTT
+
+#bot
+Please logon to Primetime https://elc-primetime.nike.com/Primetime/login.jsp to request mileage reimbursement.
+
+PAUSE 2000

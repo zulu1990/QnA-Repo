@@ -1,0 +1,3 @@
+CONCUR_12-LUIS-UTT
+What types of expenses do you have in concur
+concur expense types

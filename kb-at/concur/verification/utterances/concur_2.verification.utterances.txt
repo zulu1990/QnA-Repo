@@ -1,0 +1,16 @@
+CONCUR_2-VERIFICATION-UTT
+Where can I find manual to create SAP ID
+How can I create an SAP ID?
+I need to set up my sap account
+I want to submit an expense but I have no account. What do I need to do?
+it says that my profile is missing the SAP vendor ID so i shall contact my system administrator
+I need to create my sap account
+missing vendor ID
+How to create my SAP account?
+set up new SAP vendor ID
+your profile is missing SAP vendor ID
+SAP vendor ID missing
+missing SAP vendor ID
+SAP vendor set up
+SAP vendor error
+how to set up vendor in concur?

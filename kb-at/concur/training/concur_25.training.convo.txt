@@ -1,0 +1,13 @@
+
+CONCUR_25-LUIS
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+CONCUR_25-LUIS-UTT
+
+#bot
+Please use following [link](https://nike.box.com/s/z43zryzkw8tm4qlodjbnzj23an5ab17l) on how to update credit card information in Concur.
+
+PAUSE 2000

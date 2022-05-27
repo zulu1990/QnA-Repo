@@ -1,0 +1,13 @@
+
+CONCUR_5-LUIS
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+CONCUR_5-LUIS-UTT
+
+#bot
+You cannot submit negative expenses. Send email to EU.Finance.TEsupport@Nike.com with request to hide the negative line on your expense
+
+PAUSE 2000

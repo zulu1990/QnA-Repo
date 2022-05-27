@@ -1,0 +1,13 @@
+
+CONCUR_16-LUIS
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+CONCUR_16-LUIS-UTT
+
+#bot
+To add an employee to favourite attendees follow this [link](https://nike.box.com/s/bkk8gzekeshd2pzvqecov35db2cok7sh).
+
+PAUSE 2000

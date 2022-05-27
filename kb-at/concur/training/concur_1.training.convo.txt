@@ -1,0 +1,14 @@
+
+CONCUR_1-LUIS
+
+#include PCONVO_GREETING_FIRST_TIME
+#include PCONVO_SET_COUNTRY_OTHER
+
+#me
+CONCUR_1-LUIS-UTT
+
+#bot
+To enter Concur please follow this [link](https://nike.okta.com/home/nike_concurprod_1/0oa5lf4t8dius8mHo1t7/aln5lf9si23wJtbpd1t7). You can use it to book your travel & accommodation or submit related expenses. 
+(Please only use the above link, going to Concur via Google won't work. ETW's DON'T have access to Concur.)
+
+PAUSE 2000
