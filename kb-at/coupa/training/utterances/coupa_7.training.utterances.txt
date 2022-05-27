@@ -1,2 +1,0 @@
-COUPA_7-LUIS-UTT
-How to delegate approvers in COUPA using Android App?

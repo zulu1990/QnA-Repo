@@ -1,5 +1,0 @@
-COUPA_24-VERIFICATION-UTT
-How can I display a PO in Coupa?
-look up PO in coupa
-search PO number
-I have created PO for cc 723, how can I display my PO in Coupa?

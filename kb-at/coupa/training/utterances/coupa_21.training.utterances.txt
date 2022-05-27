@@ -1,6 +1,0 @@
-COUPA_21-LUIS-UTT
-What is GSA?
-What is Global Spend Authorization limit?
-What is BLA?
-What is Bend Level Authorizaion limit?
-What is approval limit

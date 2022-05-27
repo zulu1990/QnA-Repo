@@ -1,4 +1,0 @@
-COUPA_13-LUIS-UTT
-How do I search for a vendor in Coupa?
-I'm looking for a vendor
-search for vendor

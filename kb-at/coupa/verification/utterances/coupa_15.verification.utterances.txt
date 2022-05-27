@@ -1,3 +1,0 @@
-COUPA_15-VERIFICATION-UTT
-How can i see the approval status from my orders in Coupa?
-How can I resend an approval request in coupa?

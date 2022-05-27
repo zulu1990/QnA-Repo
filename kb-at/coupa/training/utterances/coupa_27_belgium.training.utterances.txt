@@ -1,4 +1,0 @@
-COUPA_27_BELGIUM-LUIS-UTT
-my vendor is inactive in COUPA
-vendor is disabled
-can't find vendor

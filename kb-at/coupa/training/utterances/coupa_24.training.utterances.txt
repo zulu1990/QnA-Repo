@@ -1,2 +1,0 @@
-COUPA_24-LUIS-UTT
-How can I display a PO in Coupa?

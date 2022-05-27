@@ -1,2 +1,0 @@
-COUPA_10-VERIFICATION-UTT
-How to change a requisition in Coupa?

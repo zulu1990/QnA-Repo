@@ -1,4 +1,0 @@
-COUPA_5-LUIS-UTT
-Can I open Coupa via any browser, for example internet explorer?
-Can I open Coupa with internet explorer?
-What browsers Coupa support?
